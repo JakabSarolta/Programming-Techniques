@@ -1,0 +1,13 @@
+              REPORT
+
+Start hour: 3
+
+Ending hour: 13
+
+Orders: 
+6de8f750:180eff88672:-8000 - client id: test - start time: 2022-05-23T11:11:40.510490600 - price: 143.0
+e14740a:180f02d9384:-8000 - client id: test - start time: 2022-05-23T12:09:52.700964800 - price: 79.0
+300c42ac:180f045fdd5:-8000 - client id: test - start time: 2022-05-23T12:36:46.656948600 - price: 0.0
+300c42ac:180f045fdd5:-7fff - client id: test - start time: 2022-05-23T12:36:56.996938600 - price: 188.0
+
+Total number of orders: 4

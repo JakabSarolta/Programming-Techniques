@@ -1,0 +1,14 @@
+              REPORT
+
+Day of order: 147
+
+Menu items: 
+Menu item: Quatre-Épices 
+Menu item: Fresh Corn Tortillas
+Menu item: Barbecued Shrimp 
+Menu item: compus
+Menu item: Toasted Corn Crisps 
+Menu item: simplu
+Menu item: Beef Stock 
+
+Total number clients: 7

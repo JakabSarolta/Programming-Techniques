@@ -1,0 +1,11 @@
+              BILL
+
+Client: test
+
+Products: 
+compus - amount: 9 - unit price: 106.0
+simplu - amount: 9 - unit price: 26.0
+Quatre-Épices  - amount: 9 - unit price: 81.0
+Beef Stock  - amount: 7 - unit price: 26.0
+
+Total: 2099.00

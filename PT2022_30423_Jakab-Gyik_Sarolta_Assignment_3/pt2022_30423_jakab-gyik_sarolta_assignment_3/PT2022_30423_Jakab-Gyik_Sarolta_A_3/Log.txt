@@ -1,0 +1,7 @@
+              BON FISCAL
+
+Client: Sarah J Maas
+Product: FantasyBook
+Amount: 1
+Unit price: 35.2
+Total: 35.20

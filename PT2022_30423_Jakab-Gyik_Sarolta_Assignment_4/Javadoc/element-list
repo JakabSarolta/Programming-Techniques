@@ -1,0 +1,8 @@
+ro.tuc.pt
+ro.tuc.pt.business_logic
+ro.tuc.pt.data_access
+ro.tuc.pt.gui
+ro.tuc.pt.gui.admin
+ro.tuc.pt.gui.client
+ro.tuc.pt.gui.employee
+ro.tuc.pt.utils
